@@ -1,12 +1,14 @@
 {
   "sites": [
+    "Kevanhall.co",
     "Ami-group.co",
     "Nodo-sports.app",
     "Prado.fit"
   ],
   "mappings": {
+    "145-2": "Ami-group.co",
     "188-2": "Nodo-sports.app",
     "33-2": "Prado.fit",
-    "145-2": "Ami-group.co"
+    "190-2": "Kevanhall.co"
   }
 }

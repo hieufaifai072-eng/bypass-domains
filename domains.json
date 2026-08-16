@@ -1,8 +1,10 @@
 {
   "sites": [
+    "Nodo-sports.app",
     "Prado.fit"
   ],
   "mappings": {
-    "33-2": "Prado.fit"
+    "33-2": "Prado.fit",
+    "188-2": "Nodo-sports.app"
   }
 }

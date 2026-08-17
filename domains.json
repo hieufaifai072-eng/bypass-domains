@@ -1,5 +1,6 @@
 {
   "sites": [
+    "Awrd.ga",
     "Fynce.io",
     "Mejet.me",
     "Hitclub4.cz",
@@ -10,6 +11,7 @@
     "Prado.fit"
   ],
   "mappings": {
+    "112-2": "Fynce.io",
     "145-2": "Ami-group.co",
     "188-2": "Nodo-sports.app",
     "190-2": "Kevanhall.co",
@@ -17,6 +19,6 @@
     "236-2": "Mejet.me",
     "33-2": "Prado.fit",
     "44-2": "Shbet-vn.mobi",
-    "112-2": "Fynce.io"
+    "227-2": "Awrd.ga"
   }
 }

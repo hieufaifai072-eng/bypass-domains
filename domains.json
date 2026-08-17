@@ -1,6 +1,6 @@
 {
   "sites": [
-    "Lucky8vip.xyz",
+    "Luck8vip.xyz",
     "Awrd.gg",
     "Fynce.io",
     "Mejet.me",
@@ -14,6 +14,7 @@
   ],
   "mappings": {
     "112-2": "Fynce.io",
+    "125-2": "Luck8vip.xyz",
     "145-2": "Ami-group.co",
     "188-2": "Nodo-sports.app",
     "190-2": "Kevanhall.co",
@@ -21,7 +22,6 @@
     "227-2": "Awrd.gg",
     "236-2": "Mejet.me",
     "33-2": "Prado.fit",
-    "44-2": "Shbet-vn.mobi",
-    "125-2": "Lucky8vip.xyz"
+    "44-2": "Shbet-vn.mobi"
   }
 }

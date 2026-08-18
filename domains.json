@@ -1,5 +1,6 @@
 {
   "sites": [
+    "nahodki.top",
     "Aerapp.co",
     "168win.info",
     "Luck8vip.xyz",
@@ -15,6 +16,7 @@
     "Winslotmaxwin.ltd"
   ],
   "mappings": {
+    "112-2": "nahodki.top",
     "125-2": "Luck8vip.xyz",
     "145-2": "Aerapp.co",
     "188-2": "Nodo-sports.app",

@@ -1,5 +1,6 @@
 {
   "sites": [
+    "Heynode.io",
     "Elektrik.in.net",
     "Grabdealz.in",
     "Ah1.live",
@@ -20,13 +21,15 @@
     "Nodo-sports.app",
     "Prado.fit",
     "Awrd.ga",
-    "Winslotmaxwin.ltd"
+    "Winslotmaxwin.ltd",
+    "Fynce.io"
   ],
   "mappings": {
     "112-2": "nahodki.top",
     "120-2": "Riobet-gru300.top",
     "125-2": "Luck8vip.xyz",
     "134-2": "qipini.co",
+    "141-2": "Elektrik.in.net",
     "145-2": "Aerapp.co",
     "185-2": "Ah1.live",
     "188-2": "Nodo-sports.app",
@@ -41,6 +44,6 @@
     "237-2": "0932780526.com.tw",
     "33-2": "Prado.fit",
     "44-2": "Shbet-vn.mobi",
-    "141-2": "Elektrik.in.net"
+    "151-2": "Heynode.io"
   }
 }

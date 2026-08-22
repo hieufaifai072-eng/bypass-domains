@@ -1,5 +1,6 @@
 {
   "sites": [
+    "Hughesauto.us",
     "Espn-comactivate.us",
     "24hesports.com",
     "Lv88.name",
@@ -47,7 +48,6 @@
     "Uploda.cc",
     "Hitclub4.cz",
     "Uploda.com",
-    "Qlaro.io",
     "Kh19kh.com"
   ],
   "mappings": {
@@ -91,6 +91,7 @@
     "236-2": "Qlaro.io",
     "237-2": "Bytesized.tv",
     "33-2": "Prado.fit",
-    "44-2": "Shbet-vn.mobi"
+    "44-2": "Shbet-vn.mobi",
+    "160-2": "Hughesauto.us"
   }
 }

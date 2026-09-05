@@ -1,5 +1,6 @@
 {
   "sites": [
+    "Nubeton.nl",
     "Books24.cc",
     "Heartnecklace.us",
     "Soicauchuan24h.com",
@@ -141,7 +142,9 @@
     "Grabdealz.in",
     "Tiendagamestore.cl",
     "Ah1.live",
-    "nahodki.top"
+    "nahodki.top",
+    "Books24.com",
+    "Books24.co"
   ],
   "mappings": {
     "101-2": "Atg88e.org",
@@ -227,6 +230,6 @@
     "53-2": "Books24.cc",
     "77-2": "Startconference.co",
     "90-2": "Koone.io",
-    "94-2": "Ifg.bz"
+    "94-2": "Nubeton.nl"
   }
 }
